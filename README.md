@@ -5,6 +5,8 @@ Global Azure Bootcamp 2018 - Copenhagen
 
 - https://www.meetup.com/CDUGDK/events/248218630/
 
+msevent440cq
+
 -------------------------------------------
 ## Links
 
